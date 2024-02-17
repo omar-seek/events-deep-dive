@@ -1,0 +1,38 @@
+# Node.js
+node_modules/
+
+# Build output
+/dist/
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build cache
+.cache/
+
+# Output of the npm package manager
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Editor directories and files
+/.idea
+/.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
